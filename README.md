@@ -1,4 +1,4 @@
-c
+
 # TiketGo✈️
 
 # 📃Deskripsi
@@ -54,42 +54,6 @@ Buka browser dan akses:
 ```
 http://localhost:5173
 ```
-
----
-
-## 📁 Struktur Project
-
-Contoh struktur folder project **TiketGo✈️**:
-
-```
-TICKET BOOKING/
-├── node_modules/
-├── public/
-│   ├── icons/
-│   └── vite.svg
-├── src/
-│   ├── assets/
-│   │   └── react.svg
-│   ├── components/
-│   │   ├── Footer.jsx
-│   │   ├── Navbar.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── DetailGame.jsx
-│   │   ├── PublisherDetail.jsx
-│   │   ├── StorePages.jsx
-│   │   ├── Profile.jsx
-│   │   └── AboutUs.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── .gitignore
-├── index.html
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-└── README.md
-
 ---
 
 ```
