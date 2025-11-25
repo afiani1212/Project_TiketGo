@@ -102,8 +102,8 @@ TICKET BOOKING/
 
 ## 👥 Anggota Kelompok 6
 
-| Nama               | Tugas                    |                          |                    |                          |
-| ------------------ | -------------------------|
+| Nama               | Tugas                    |                         
+| ------------------ | -------------------------| 
 | **Agis**           | POST                     |
 | **Noer Pelangi**   | GET                      |
 | **M.Adli**         | DELET                    |
