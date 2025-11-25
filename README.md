@@ -39,7 +39,7 @@ c
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/BagasRPLx-b/project-kel6.git
+git clone https://github.com/afiani1212/Project_TiketGo.git
 cd Ticket Booking
 ````
 
@@ -49,7 +49,7 @@ cd Ticket Booking
 npm install
 ```
 
-### 3. Jalankan Server Development
+### 3. Jalankan Server 
 
 ```bash
 npm run dev
@@ -62,3 +62,54 @@ Buka browser dan akses:
 ```
 http://localhost:5173
 ```
+
+---
+
+## 📁 Struktur Project
+
+Contoh struktur folder project **TiketGo✈️**:
+
+```
+TICKET BOOKING/
+├── node_modules/
+├── public/
+│   ├── icons/
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   │   └── react.svg
+│   ├── components/
+│   │   ├── Footer.jsx
+│   │   ├── Navbar.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── DetailGame.jsx
+│   │   ├── PublisherDetail.jsx
+│   │   ├── StorePages.jsx
+│   │   ├── Profile.jsx
+│   │   └── AboutUs.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+└── README.md
+
+---
+
+## 👥 Anggota Kelompok 6
+
+| Nama               | Tugas                    |                          |                    |                          |
+| ------------------ | -------------------------|
+| **Agis**           | POST                     |
+| **Noer Pelangi**   | GET                      |
+| **M.Adli**         | DELET                    |
+| **Risma**          | PUT                      |                     
+                            
+
+
+
+
