@@ -100,15 +100,12 @@ TICKET BOOKING/
 
 ---
 
-## 👥 Anggota Kelompok 6
+## 👥 Anggota Kelompok 4
 
-| Nama               | Tugas                    |                         
-| ------------------ | -------------------------| 
-| **Agis**           | POST                     |
-| **Noer Pelangi**   | GET                      |
-| **M.Adli**         | DELET                    |
-| **Risma**          | PUT                      |                     
-                            
+1. Agis > POST
+2. Noer Pelangi > GET
+3. M.Adli > DELETE
+4. Risma > PUT
 
 
 
