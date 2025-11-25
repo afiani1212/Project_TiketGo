@@ -8,4 +8,10 @@
 
 ## Fitur TiketGo✈️
 - 👤 **Login / Register** _
-- 🏡 **Home** _ Informasi Jadwal Tiket Pesawat yang tersedia 
+- 🏡 **Home untuk User** _ Informasi Jadwal Tiket Pesawat yang tersedia
+- 🏡 **Home untuk Admin** _ Admin dapat menambah, mengubah dan menghapus      jadwal penerbangan
+- 📩 **Booking** _ User bisa memesan tiket pesawat
+- **Put** _ Admin bisa menambahkan Jadwal tiket pesawat terbaru
+- **Edit** _ Admin dapat mengubah jadwal tiket pesawat
+- **Delete** _ Admin bisa menghapus jadwal tiket pesawat
+- **Logout** _ Untuk keluar dari halaman home  
