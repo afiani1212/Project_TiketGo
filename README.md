@@ -14,4 +14,12 @@ c
 - ➕**Put** _ Admin bisa menambahkan Jadwal tiket pesawat terbaru
 - 📲 **Edit** _ Admin dapat mengubah jadwal tiket pesawat
 - ✖️ **Delete** _ Admin bisa menghapus jadwal tiket pesawat
-- 👤 **Logout** _ Untuk keluar dari halaman home  
+- 👤 **Logout** _ Untuk keluar dari halaman home
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
